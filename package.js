@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Knockout Pager"
+  summary: "Pager.js integrated with with Meteor, creating subpages using Knockout"
 });
 
 Package.on_use(function (api) {

@@ -1,9 +1,9 @@
 {
   "name": "knockout-client-pager",
-  "description": "pager.js integrated with with Meteor, creating subpages using Knockout",
+  "description": "Pager.js integrated with with Meteor, creating subpages using Knockout",
   "homepage": "https://github.com/zhouzhuojie/knockout-client-pager",
   "author": "Zhuojie Zhou <zz@pycode.me> (http://pycode.me)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/zhouzhuojie/knockout-client-pager.git",
   "packages": {
     "knockout-client": {}
